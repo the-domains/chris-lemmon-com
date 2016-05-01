@@ -1,7 +1,7 @@
 name: chris.lemmon.com
 favicon: null
-layout_spectrum: 0.5671583914663643
-typography_spectrum: 0.8527374926488847
+layout_spectrum: 0.89743
+typography_spectrum: 0.95734
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.011837857542559505
+    - '#101010'
+    - '#303030'
+    - '#d9d9d9'
+    - '#a4a4a4'
+    - '#797979'
+  brandStrength: 0
   lightness: 0.44949039118364453
   saturation: 0.09429654851555824
   rhythmicContrast: 0.06522225844673812
