@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[chris.lemmon.com]]></title>
         <description><![CDATA[chris.lemmon.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chris-lemmon-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 18:53:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 18:53:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-lemmon-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/069ff353-ccc3-44c5-93be-60c5465206ad.jpg">]]></description>
-            <link>undefinedf13d541f-75c1-4715-ad67-c0a839c77362/index.html</link>
+            <link>https://thegrid.ai/chris-lemmon-com/f13d541f-75c1-4715-ad67-c0a839c77362/index.html</link>
             <guid isPermaLink="false">f13d541f-75c1-4715-ad67-c0a839c77362</guid>
-            <pubDate>Fri, 01 Jul 2016 18:53:29 GMT</pubDate>
+            <pubDate>Fri, 01 Jul 2016 18:53:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
